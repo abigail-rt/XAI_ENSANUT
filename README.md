@@ -3,8 +3,7 @@ Code related to the article Factors Associated with Depression in Mexico: An XAI
 
 Dataset
 
-The dataset is derived from the Mexican National Health and Nutrition Survey (ENSANUT 2021–2023):
-https://ensanut.insp.mx/
+The dataset can be found at: https://doi.org/10.5281/zenodo.19458275
 
 Requirements
 
