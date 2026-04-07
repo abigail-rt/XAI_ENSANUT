@@ -9,7 +9,7 @@ Requirements
 
 Install the required libraries using:
 
-pip install numpy pandas matplotlib scikit-learn shap xgboost lightgbm catboost imbalanced-learn pillow
+pip install numpy pandas matplotlib scikit-learn xgboost lightgbm catboost imbalanced-learn shap openpyxl
 
 Methodology
 
