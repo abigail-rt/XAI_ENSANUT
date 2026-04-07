@@ -1,5 +1,5 @@
 # Factors Associated with Depression in Mexico: An XAI Comparative Analysis
-Code related to the article Factors Associated with Depression in Mexico: An XAI Comparative Analysis of Tree-Based Classifiers Under Imbalanced Data.
+This repository contains code associated with the article "Factors Associated with Depression in Mexico: An XAI Comparative Analysis of Tree-Based Classifiers Under Imbalanced Data", which has been accepted at the Mexican Conference on Pattern Recognition 2026 (MCPR 2026).
 
 Dataset
 
